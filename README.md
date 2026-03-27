@@ -10,9 +10,6 @@
 </p>
 
 <p>
-  <a href="https://github.com/Oussechdev">
-    <img src="https://komarev.com/ghpvc/?username=Oussechdev&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  </a>
   <img src="https://img.shields.io/badge/Focus-AI%20Engineering%20%7C%20Automation%20%7C%20Full--Stack-0e75b6?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Based%20in-Casablanca%2C%20Morocco-16a34a?style=for-the-badge" alt="Location" />
 </p>

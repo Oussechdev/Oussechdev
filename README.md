@@ -2,7 +2,7 @@
 
 # Oussama Echouiyab
 ### Data & AI Engineer • LLMs Architect • Automation Builder
-<img src="https://img.shields.io/badge/Focus-RAG%20%7C%20AI%20Agents%20%7C%20Automation-0e75b6?style=for-the-badge" alt="Focus" />
+
 <p>
   <a href="https://github.com/Oussechdev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=760&lines=Building+AI+Agents+for+Real+World+Problems;Designing+Scalable+RAG+Pipelines;Engineering+Production-Ready+Full-Stack+Systems;Automating+Business+Workflows+with+n8n" alt="Typing SVG" />

@@ -22,16 +22,17 @@
 
 <p>
   <a href="https://www.linkedin.com/in/oussama-echouiyab/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:oussama.echouiyab11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 </div>
 
 ---
+
 ## Tech Stack
 
 <div align="center">
@@ -61,6 +62,7 @@
 </div>
 
 ---
+
 ## About Me
 
 I’m a **Data & AI Engineer** passionate about transforming raw data into intelligent, production-ready systems. My work sits at the intersection of **AI engineering**, **full-stack development**, and **workflow automation**, with a strong focus on building solutions that are technically solid, scalable, and operationally useful.
@@ -85,8 +87,6 @@ I enjoy building systems that do more than just work — they **reason, automate
 - Exploring **cloud-native AI deployment architectures**
 
 ---
-
-
 
 ## Core Expertise
 
@@ -113,52 +113,31 @@ I enjoy building systems that do more than just work — they **reason, automate
 ## Featured Projects
 
 ### [LLM-Agent-SAV](https://github.com/Oussechdev/SAV-LLM-Agent-ollama)
-**AI Support Agent • FastAPI • ChromaDB • Ollama**
-
-Built a sophisticated **RAG-powered support agent** designed to automate customer support workflows using local LLM infrastructure.
-
-**Highlights**
-- Designed a retrieval pipeline using **FastAPI** and **ChromaDB**
-- Integrated local LLM reasoning through **Ollama**
-- Built an autonomous logic layer capable of detecting missing customer information
-- Automated follow-up behavior for incomplete cases such as missing VIN or customer identifiers
-
----
+**RAG-powered support automation with FastAPI, ChromaDB, and Ollama.**
 
 ### [HSE Real-Time Platform](https://github.com/Oussechdev/HSE-Bot-OCP)
-**Full-Stack Monitoring Platform • AI Risk Prediction • ReactJS • Node.js**
-
-Developed a real-time **Health, Safety, and Environment** platform combining full-stack engineering with applied AI.
-
-**Highlights**
-- Built the platform architecture and core product features
-- Integrated a **CNN-based risk prediction model**
-- Added a chatbot that handled a large portion of recurring safety-related requests
-- Delivered a system focused on operational visibility, prevention, and fast decision support
-
----
+**Full-stack HSE monitoring platform with AI-powered risk analysis and operational automation.**
 
 ### [Kafka Event Streamer](https://github.com/Oussechdev/Kafka_Project)
-**Backend Engineering • Apache Kafka • Real-Time Processing**
-
-Designed a real-time event streaming system for reliable, scalable message ingestion and processing.
-
-**Highlights**
-- Implemented a high-throughput event-driven architecture
-- Worked with **Apache Kafka** for streaming and data transport
-- Focused on performance, reliability, and clean backend design
+**Real-time event streaming architecture built with Apache Kafka for scalable data processing.**
 
 ---
 
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Oussechdev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oussechdev&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Oussechdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Oussechdev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oussechdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Oussechdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oussechdev&theme=tokyonight" alt="Profile Details" />
+
 </div>
 
 ---

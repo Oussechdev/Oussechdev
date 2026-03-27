@@ -62,6 +62,19 @@
 </div>
 
 ---
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Oussechdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oussechdev&theme=tokyonight" alt="Profile Details" />
+
+</div>
+
+---
 
 ## About Me
 
@@ -97,20 +110,6 @@ I enjoy building systems that do more than just work — they **reason, automate
 - **Frontend:** ReactJS, NextJS, Flutter
 - **Automation & Low-Code:** n8n, Mendix, Power Apps
 - **DevOps & Cloud:** Docker, GitHub Actions, Oracle Cloud Infrastructure
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Oussechdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oussechdev&theme=tokyonight" alt="Profile Details" />
-
-</div>
 
 ---
 

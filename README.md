@@ -32,32 +32,6 @@
 </div>
 
 ---
-
-## About Me
-
-I’m a **Data & AI Engineer** passionate about transforming raw data into intelligent, production-ready systems. My work sits at the intersection of **AI engineering**, **full-stack development**, and **workflow automation**, with a strong focus on building solutions that are technically solid, scalable, and operationally useful.
-
-I specialize in:
-- **RAG systems** and intelligent AI agents
-- **Local LLM deployment** with **Ollama**
-- **Vector search and retrieval pipelines** with **ChromaDB**
-- **Full-stack platforms** for industrial and enterprise use cases
-- **Automation workflows** with **n8n**, **FastAPI**, and event-driven systems
-
-I enjoy building systems that do more than just work — they **reason, automate, scale, and deliver measurable impact**.
-
----
-
-## What I’m Working On
-
-- Building **autonomous multi-agent systems**
-- Improving **vector database retrieval quality and performance**
-- Designing **AI-powered business workflows**
-- Developing **production-grade full-stack platforms**
-- Exploring **cloud-native AI deployment architectures**
-
----
-
 ## Tech Stack
 
 <div align="center">
@@ -87,6 +61,32 @@ I enjoy building systems that do more than just work — they **reason, automate
 </div>
 
 ---
+## About Me
+
+I’m a **Data & AI Engineer** passionate about transforming raw data into intelligent, production-ready systems. My work sits at the intersection of **AI engineering**, **full-stack development**, and **workflow automation**, with a strong focus on building solutions that are technically solid, scalable, and operationally useful.
+
+I specialize in:
+- **RAG systems** and intelligent AI agents
+- **Local LLM deployment** with **Ollama**
+- **Vector search and retrieval pipelines** with **ChromaDB**
+- **Full-stack platforms** for industrial and enterprise use cases
+- **Automation workflows** with **n8n**, **FastAPI**, and event-driven systems
+
+I enjoy building systems that do more than just work — they **reason, automate, scale, and deliver measurable impact**.
+
+---
+
+## What I’m Working On
+
+- Building **autonomous multi-agent systems**
+- Improving **vector database retrieval quality and performance**
+- Designing **AI-powered business workflows**
+- Developing **production-grade full-stack platforms**
+- Exploring **cloud-native AI deployment architectures**
+
+---
+
+
 
 ## Core Expertise
 

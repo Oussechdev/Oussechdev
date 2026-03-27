@@ -78,16 +78,6 @@ I enjoy building systems that do more than just work — they **reason, automate
 
 ---
 
-## What I’m Working On
-
-- Building **autonomous multi-agent systems**
-- Improving **vector database retrieval quality and performance**
-- Designing **AI-powered business workflows**
-- Developing **production-grade full-stack platforms**
-- Exploring **cloud-native AI deployment architectures**
-
----
-
 ## Core Expertise
 
 ### Artificial Intelligence & Data
@@ -110,27 +100,9 @@ I enjoy building systems that do more than just work — they **reason, automate
 
 ---
 
-## Featured Projects
-
-### [LLM-Agent-SAV](https://github.com/Oussechdev/SAV-LLM-Agent-ollama)
-**RAG-powered support automation with FastAPI, ChromaDB, and Ollama.**
-
-### [HSE Real-Time Platform](https://github.com/Oussechdev/HSE-Bot-OCP)
-**Full-stack HSE monitoring platform with AI-powered risk analysis and operational automation.**
-
-### [Kafka Event Streamer](https://github.com/Oussechdev/Kafka_Project)
-**Real-time event streaming architecture built with Apache Kafka for scalable data processing.**
-
----
-
 ## GitHub Analytics
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Oussechdev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oussechdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Oussechdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 

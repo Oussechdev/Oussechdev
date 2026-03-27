@@ -1,11 +1,11 @@
 <div align="center">
 
 # Oussama Echouiyab
-### Data & AI Engineer • LLMs Architect • Automation Builder
+### Data & AI Engineer • LLM Systems Architect • Automation Engineer
 
 <p>
   <a href="https://github.com/Oussechdev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=760&lines=Building+AI+Agents+for+Real+World+Problems;Designing+Scalable+RAG+Pipelines;Engineering+Production-Ready+Full-Stack+Systems;Automating+Business+Workflows+with+n8n" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Building+AI+Systems+for+Real-World+Impact;Designing+Scalable+RAG+and+Agentic+Pipelines;Engineering+Production-Ready+Full-Stack+Platforms;Automating+Business+Workflows+with+n8n+and+FastAPI" alt="Typing SVG" />
   </a>
 </p>
 
@@ -30,6 +30,28 @@
 </p>
 
 </div>
+
+---
+
+## About Me
+
+I am a **Data & AI Engineer** focused on building intelligent systems that are not only technically sound, but also useful in real operational environments. My work combines **AI engineering**, **backend architecture**, **full-stack development**, and **workflow automation** to deliver solutions that scale, automate, and create measurable value.
+
+I am especially interested in designing systems that turn unstructured information into reliable, production-ready workflows — from **RAG pipelines** and **LLM-powered agents** to **automation platforms**, **APIs**, and **data-driven applications**.
+
+My approach is simple: build systems that are **practical, scalable, maintainable, and impactful**.
+
+---
+
+## What I Specialize In
+
+- **RAG systems** and retrieval pipelines
+- **AI agents** for real-world business workflows
+- **Local LLM deployment** with **Ollama**
+- **Vector search systems** with **ChromaDB**
+- **Backend engineering** with **FastAPI**, **Spring Boot**, and event-driven services
+- **Workflow automation** with **n8n**
+- **Production-ready full-stack platforms** for enterprise and industrial use cases
 
 ---
 
@@ -62,6 +84,29 @@
 </div>
 
 ---
+
+## Core Expertise
+
+### AI Engineering
+- **LLMs & Agentic Systems:** GPT-4, Llama 3, Ollama, LangChain
+- **RAG Architecture:** retrieval strategies, embeddings, chunking, reranking, context orchestration
+- **Vector Search:** ChromaDB and semantic retrieval workflows
+- **Applied AI:** intelligent assistants, internal knowledge systems, and domain-specific automation
+
+### Data & Backend Engineering
+- **Data Processing:** Python, Pandas, Scikit-learn
+- **APIs & Services:** FastAPI, Flask, Spring Boot, .NET
+- **Storage & Databases:** MongoDB, SQL-based systems, MinIO
+- **System Design:** REST APIs, WebSockets, event-driven architectures, scalable backend services
+- **Streaming:** Apache Kafka, Kafka Streams
+
+### Frontend, Automation & Cloud
+- **Frontend Development:** React, Next.js, Flutter
+- **Automation Engineering:** n8n, Mendix, Power Apps
+- **DevOps & Deployment:** Docker, GitHub Actions, Oracle Cloud Infrastructure
+
+---
+
 ## GitHub Analytics
 
 <div align="center">
@@ -76,56 +121,22 @@
 
 ---
 
-## About Me
+## Current Focus
 
-I’m a **Data & AI Engineer** passionate about transforming raw data into intelligent, production-ready systems. My work sits at the intersection of **AI engineering**, **full-stack development**, and **workflow automation**, with a strong focus on building solutions that are technically solid, scalable, and operationally useful.
+I am currently focused on:
 
-I specialize in:
-- **RAG systems** and intelligent AI agents
-- **Local LLM deployment** with **Ollama**
-- **Vector search and retrieval pipelines** with **ChromaDB**
-- **Full-stack platforms** for industrial and enterprise use cases
-- **Automation workflows** with **n8n**, **FastAPI**, and event-driven systems
-
-I enjoy building systems that do more than just work — they **reason, automate, scale, and deliver measurable impact**.
+- Building more robust **RAG pipelines**
+- Engineering **AI agents** for practical business use cases
+- Creating **automation-first systems** that reduce repetitive work
+- Designing **scalable backend platforms** for AI-powered applications
+- Publishing more polished and production-grade open-source projects
 
 ---
 
-## Core Expertise
+## Engineering Philosophy
 
-### Artificial Intelligence & Data
-- **LLMs & Agents:** GPT-4, Llama 3, Ollama, LangChain, Agentic Systems
-- **RAG Pipelines:** Retrieval design, embeddings, chunking strategies, context orchestration
-- **Data Engineering:** Python, Pandas, Scikit-Learn, SQL Server, MongoDB
-- **Vector & Storage:** ChromaDB, MinIO
-- **Analytics:** Power BI, real-time data processing
-
-### Backend & Systems
-- **Languages:** Python, Java, JavaScript, C#
-- **Frameworks:** FastAPI, Flask, Spring Boot, .NET
-- **Architectures:** REST APIs, WebSockets, event-driven systems, scalable backend services
-- **Streaming & Messaging:** Apache Kafka, Kafka Streams
-
-### Frontend & Automation
-- **Frontend:** ReactJS, NextJS, Flutter
-- **Automation & Low-Code:** n8n, Mendix, Power Apps
-- **DevOps & Cloud:** Docker, GitHub Actions, Oracle Cloud Infrastructure
-
----
-
-## 2026 Goals
-
-- Build more robust and scalable **RAG systems**
-- Contribute to impactful **open-source AI tools**
-- Expand into **cloud-native AI infrastructure**
-- Publish more polished, production-grade public repositories
-
----
-
-## Philosophy
-
-> I believe great engineering is not just about writing code.  
-> It is about designing systems that are intelligent, reliable, scalable, and useful in the real world.
+> Great engineering is not just about writing code.  
+> It is about designing systems that are intelligent, reliable, scalable, and genuinely useful in the real world.
 
 ---
 

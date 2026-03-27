@@ -33,28 +33,6 @@
 
 ---
 
-## About Me
-
-I am a **Data & AI Engineer** focused on building intelligent systems that are not only technically sound, but also useful in real operational environments. My work combines **AI engineering**, **backend architecture**, **full-stack development**, and **workflow automation** to deliver solutions that scale, automate, and create measurable value.
-
-I am especially interested in designing systems that turn unstructured information into reliable, production-ready workflows — from **RAG pipelines** and **LLM-powered agents** to **automation platforms**, **APIs**, and **data-driven applications**.
-
-My approach is simple: build systems that are **practical, scalable, maintainable, and impactful**.
-
----
-
-## What I Specialize In
-
-- **RAG systems** and retrieval pipelines
-- **AI agents** for real-world business workflows
-- **Local LLM deployment** with **Ollama**
-- **Vector search systems** with **ChromaDB**
-- **Backend engineering** with **FastAPI**, **Spring Boot**, and event-driven services
-- **Workflow automation** with **n8n**
-- **Production-ready full-stack platforms** for enterprise and industrial use cases
-
----
-
 ## Tech Stack
 
 <div align="center">
@@ -85,6 +63,42 @@ My approach is simple: build systems that are **practical, scalable, maintainabl
 
 ---
 
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Oussechdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oussechdev&theme=tokyonight" alt="Profile Details" />
+
+</div>
+
+---
+
+## About Me
+
+I am a **Data & AI Engineer** focused on building intelligent systems that are not only technically sound, but also useful in real operational environments. My work combines **AI engineering**, **backend architecture**, **full-stack development**, and **workflow automation** to deliver solutions that scale, automate, and create measurable value.
+
+I am especially interested in designing systems that turn unstructured information into reliable, production-ready workflows — from **RAG pipelines** and **LLM-powered agents** to **automation platforms**, **APIs**, and **data-driven applications**.
+
+My approach is simple: build systems that are **practical, scalable, maintainable, and impactful**.
+
+---
+
+## What I Specialize In
+
+- **RAG systems** and retrieval pipelines
+- **AI agents** for real-world business workflows
+- **Local LLM deployment** with **Ollama**
+- **Vector search systems** with **ChromaDB**
+- **Backend engineering** with **FastAPI**, **Spring Boot**, and event-driven services
+- **Workflow automation** with **n8n**
+- **Production-ready full-stack platforms** for enterprise and industrial use cases
+
+---
+
 ## Core Expertise
 
 ### AI Engineering
@@ -104,20 +118,6 @@ My approach is simple: build systems that are **practical, scalable, maintainabl
 - **Frontend Development:** React, Next.js, Flutter
 - **Automation Engineering:** n8n, Mendix, Power Apps
 - **DevOps & Deployment:** Docker, GitHub Actions, Oracle Cloud Infrastructure
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Oussechdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oussechdev&theme=tokyonight" alt="Profile Details" />
-
-</div>
 
 ---
 
